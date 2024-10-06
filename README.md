@@ -11,3 +11,5 @@ Throughout the development of ArenaShooter, I gained experience with:
 - Character control and gameplay mechanics
 
 Feel free to explore, learn, and enjoy the process of game development with ArenaShooter!
+
+![image](https://github.com/user-attachments/assets/fe063163-56a3-4d26-b474-7e19b98ee21c)
